@@ -1,5 +1,7 @@
 # pl-predictive-model
+
 Premier League Heuristic Scoring Engine
+
 This project implements a custom-weighted "Grid Model" to predict English Premier League match outcomes. Unlike "black-box" machine learning models, this engine uses explicit mathematical weights assigned to key performance indicators, providing total transparency into why a specific team is favored.
 
 The Logic:
