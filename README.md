@@ -47,3 +47,5 @@ Home Adv             | 0.45            | 0.0
 FINAL MODEL SCORE    | 2.536           | 0.240
 
 >>> PREDICTION: Aston Villa Wins! <<<
+
+Data was collected from https://www.football-data.co.uk/englandm.php
